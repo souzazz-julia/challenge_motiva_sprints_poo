@@ -1,0 +1,16 @@
+#Java
+out/
+bin/
+*.class
+
+#Oracle
+lib/*.jar
+
+#Arquivos de IDE
+.vscode/
+.idea/
+*.iml
+
+#Arquivos do sistema
+Thumbs.db
+.DS_Store

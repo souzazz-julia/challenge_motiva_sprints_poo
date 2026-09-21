@@ -1,0 +1,1 @@
+Coloque aqui o arquivo ojdbc17.jar (baixado do site da Oracle ou copiado do laboratorio).
